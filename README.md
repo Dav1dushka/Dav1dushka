@@ -1,9 +1,9 @@
 ## qq ALL
 💫 About Me:<br>
-🆒My name is David<br>
-🤝 Languages taught:Ukrainian,Russian,English,Italian.<br>
-😱Age: 19 years old<br>
-💬 Ask me about<br>
+- 🆒My name is David<br>
+- 🤝 Languages taught:Ukrainian,Russian,English,Italian.<br>
+- 😱Age: 19 years old<br>
+- 💬 Ask me about<br>
 
 
 ## 🌐 Socials:
