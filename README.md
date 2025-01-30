@@ -1,8 +1,7 @@
 # 💫 About Me:
-🔭 I’m currently working on<br>
-👯 I’m looking to collaborate on<br>
-🤝 I’m looking for help with<br>
-🌱 I’m currently learning<br>
+🆒My name is David<br>
+🤝 Languages taught:🇺🇦🇷🇺🏴󠁧󠁢󠁥󠁮󠁧󠁿🇮🇹<br>
+😱Age: 19 years old<br>
 💬 Ask me about<br>
 
 
