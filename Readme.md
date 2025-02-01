@@ -4,6 +4,7 @@
 - 🤝 Studying languages:Ukrainian,Russian,English,Italian.<br>
 - 😱Age: 18 years old<br>
 - 💬 Ask me about<br>
+- ❤️My crash SS___id (next a letter for 3 subscribers )
 
 
 ## 🌐 Socials:
