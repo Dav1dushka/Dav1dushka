@@ -1,4 +1,4 @@
-### Hi, I'm Davyd 👋
+### Hi
  About Me:<br>
 - ta ne bred, don't cringe
 
