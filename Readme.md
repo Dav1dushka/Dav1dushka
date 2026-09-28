@@ -1,4 +1,4 @@
-# Hi, I'm Davyd 👋
+# Hi, I'm Davyd 
 
 ### Junior Software Developer
 
