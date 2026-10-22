@@ -1,33 +1,35 @@
-# Hi, I'm Davyd 
+# Hi, I'm Davyd 👋
 
-### Junior Software Developer
+### Junior Web Developer
 
-I'm learning software development and currently focusing on backend development.
+I build small, practical web applications with **HTML, CSS, and JavaScript**. I care about clear interfaces, responsive layouts, input validation, and making projects easy to run and understand.
 
-I have the most practice with frontend development, and now I'm spending more time with Python, databases, APIs and Linux.
+I'm expanding my skills in **Python, SQL, REST APIs, and backend development**. I enjoy learning by building real projects and improving them through testing and iteration.
 
-I also like networking, cybersecurity and the technical side of how software works.
+## Featured project
 
-### Tech I use
+### [IPv4 Network Calculator](https://github.com/Dav1dushka/Network-Calculator)
 
-- JavaScript
-- HTML / CSS
-- SQL
-- Python
-- Git / GitHub
-- Linux
+A browser-based tool that calculates subnet details from an IPv4 address and CIDR prefix.
 
-### Currently learning
+- Calculates network and broadcast addresses, subnet and wildcard masks, and host ranges
+- Includes special handling for `/0`, `/31`, and `/32` prefixes
+- Supports copyable results and shareable calculation links
+- Includes automated tests for common cases, edge cases, and invalid input
 
-- Backend development
-- REST APIs
-- Databases
-- Python
-- Networking
-- Software engineering
+**[Try the live demo](https://dav1dushka.github.io/Network-Calculator/)** · [View source code](https://github.com/Dav1dushka/Network-Calculator)
 
-I'm currently looking for a junior developer opportunity where I can keep learning and work on real projects.
+## Technologies
 
-### Links
+**Working with:** JavaScript · HTML · CSS · Git · GitHub
 
-[LinkedIn](https://www.linkedin.com/in/davydvelychko/)
+**Currently learning:** Python · SQL · REST APIs · Backend development · Linux
+
+## What I'm looking for
+
+I'm open to small web development tasks, bug fixes, and junior developer opportunities where I can deliver useful work, communicate clearly, and keep improving.
+
+## Links
+
+- [GitHub repositories](https://github.com/Dav1dushka?tab=repositories)
+- [LinkedIn](https://www.linkedin.com/in/davydvelychko/)
