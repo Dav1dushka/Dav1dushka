@@ -1,35 +1,33 @@
-# Hi, I'm Davyd 👋
+# Hi, I'm Davyd 
 
-### Junior Web Developer
+### Junior Software Developer
 
-I build small, practical web applications with **HTML, CSS, and JavaScript**. I care about clear interfaces, responsive layouts, input validation, and making projects easy to run and understand.
+I'm learning software development and currently focusing on backend development.
 
-I'm expanding my skills in **Python, SQL, REST APIs, and backend development**. I enjoy learning by building real projects and improving them through testing and iteration.
+I have the most practice with frontend development, and now I'm spending more time with Python, databases, APIs and Linux.
 
-## Featured project
+I also like networking, cybersecurity and the technical side of how software works.
 
-### [IPv4 Network Calculator](https://github.com/Dav1dushka/Network-Calculator)
+### Tech I use
 
-A browser-based tool that calculates subnet details from an IPv4 address and CIDR prefix.
+- JavaScript
+- HTML / CSS
+- SQL
+- Python
+- Git / GitHub
+- Linux
 
-- Calculates network and broadcast addresses, subnet and wildcard masks, and host ranges
-- Includes special handling for `/0`, `/31`, and `/32` prefixes
-- Supports copyable results and shareable calculation links
-- Includes automated tests for common cases, edge cases, and invalid input
+### Currently learning
 
-**[Try the live demo](https://dav1dushka.github.io/Network-Calculator/)** · [View source code](https://github.com/Dav1dushka/Network-Calculator)
+- Backend development
+- REST APIs
+- Databases
+- Python
+- Networking
+- Software engineering
 
-## Technologies
+I'm currently looking for a junior developer opportunity where I can keep learning and work on real projects.
 
-**Working with:** JavaScript · HTML · CSS · Git · GitHub
+### Links
 
-**Currently learning:** Python · SQL · REST APIs · Backend development · Linux
-
-## What I'm looking for
-
-I'm open to small web development tasks, bug fixes, and junior developer opportunities where I can deliver useful work, communicate clearly, and keep improving.
-
-## Links
-
-- [GitHub repositories](https://github.com/Dav1dushka?tab=repositories)
-- [LinkedIn](https://www.linkedin.com/in/davydvelychko/)
+[LinkedIn](https://www.linkedin.com/in/davydvelychko/)
