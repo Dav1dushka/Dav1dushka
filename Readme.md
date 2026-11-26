@@ -1,4 +1,4 @@
-# Hi, I'm Davyd
+# Hi
 
 ### Junior Software Developer · Python · Backend · Network Security
 
