@@ -1,8 +1,10 @@
-# qq my name's David
+# Hi, I'm Davyd
 
-### Junior Software Developer · Python · Backend · Network Security
+### Junior Software Developer · Python Backend · React Frontend · Network Security
 
 I'm learning software development and currently focusing on backend development.
+
+I have the most practice with frontend development, and now I'm spending more time with Python, databases, APIs and Linux.
 
 I like networking, cybersecurity and the technical side of how software works — packets, protocols, logs, the places where things break and where attacks hide.
 
@@ -22,7 +24,7 @@ I like networking, cybersecurity and the technical side of how software works �
 
 ### Tech I use
 
-Python · FastAPI · asyncio · SQL (PostgreSQL, SQLite) · Redis · TypeScript · React · Git · Linux · Docker Compose · GitHub Actions · pytest
+Python · FastAPI · asyncio · SQL (PostgreSQL, SQLite) · Redis · TypeScript · React · Vite · HTML / CSS · Git · Linux · Docker Compose · GitHub Actions · pytest
 
 ### Currently learning
 
