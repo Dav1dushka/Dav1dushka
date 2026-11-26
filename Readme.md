@@ -1,4 +1,4 @@
-# Hi, I'm Davyd
+# QQ, I'm Davyd
 
 ### Junior Software Developer · Python Backend · React Frontend · Network Security
 
